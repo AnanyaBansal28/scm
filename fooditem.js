@@ -6,7 +6,7 @@
   top: 0;
   left: 0;
   height: 3px;
-  background: #0076ff;
+  background: #00a2ff;
   z-index: 2147483647;
   transition:
     width 300ms ease-out,
